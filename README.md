@@ -23,3 +23,7 @@ Kami diperlihatkan implementasi Python untuk real time image recognition dengan 
 Program ini bertujuan menyala-matikan lampu dengan delay 1 detik dan memutar servo sebesar 180 derajat. Tombol merah berfungsi untuk memulai atau memberhentikan nyala-mati lampu. Tombol hitam berfungsi untuk memulai atau memberhentikan perputaran servo.
 
 ## Penjelasan Kode Python
+Program ini bertujuan menyalakan kamera beserta tampilan teks. Terdapat pula fitur rotate dan flip yang dapat diakses dengan menekan tombol 1 dan 2.
+
+## Dokumentasi Bootcamp 2
+![Dokumentasi](https://github.com/user-attachments/assets/25860660-80ec-4a94-b998-828e3da11f2d)
