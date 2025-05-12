@@ -1,6 +1,3 @@
-identitas, resume, penjelasan kode Ard + link wokwi, penjelasan kode Python
-
-# irc-bootcamp-programming
 # IPB Robotic Club Bootcamp Programming
 
 Siti Zahra Muthmainnah
